@@ -1,0 +1,16 @@
+C:\Users\Fabiano\OneDrive - Associacao Antonio Vieira\TI\Git\Projetos-C#\ex01c#\bin\Debug\net5.0\ex01c#.exe
+C:\Users\Fabiano\OneDrive - Associacao Antonio Vieira\TI\Git\Projetos-C#\ex01c#\bin\Debug\net5.0\ex01c#.deps.json
+C:\Users\Fabiano\OneDrive - Associacao Antonio Vieira\TI\Git\Projetos-C#\ex01c#\bin\Debug\net5.0\ex01c#.runtimeconfig.json
+C:\Users\Fabiano\OneDrive - Associacao Antonio Vieira\TI\Git\Projetos-C#\ex01c#\bin\Debug\net5.0\ex01c#.runtimeconfig.dev.json
+C:\Users\Fabiano\OneDrive - Associacao Antonio Vieira\TI\Git\Projetos-C#\ex01c#\bin\Debug\net5.0\ex01c#.dll
+C:\Users\Fabiano\OneDrive - Associacao Antonio Vieira\TI\Git\Projetos-C#\ex01c#\bin\Debug\net5.0\ref\ex01c#.dll
+C:\Users\Fabiano\OneDrive - Associacao Antonio Vieira\TI\Git\Projetos-C#\ex01c#\bin\Debug\net5.0\ex01c#.pdb
+C:\Users\Fabiano\OneDrive - Associacao Antonio Vieira\TI\Git\Projetos-C#\ex01c#\obj\Debug\net5.0\ex01c#.csproj.AssemblyReference.cache
+C:\Users\Fabiano\OneDrive - Associacao Antonio Vieira\TI\Git\Projetos-C#\ex01c#\obj\Debug\net5.0\ex01c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabiano\OneDrive - Associacao Antonio Vieira\TI\Git\Projetos-C#\ex01c#\obj\Debug\net5.0\ex01c#.AssemblyInfoInputs.cache
+C:\Users\Fabiano\OneDrive - Associacao Antonio Vieira\TI\Git\Projetos-C#\ex01c#\obj\Debug\net5.0\ex01c#.AssemblyInfo.cs
+C:\Users\Fabiano\OneDrive - Associacao Antonio Vieira\TI\Git\Projetos-C#\ex01c#\obj\Debug\net5.0\ex01c#.csproj.CoreCompileInputs.cache
+C:\Users\Fabiano\OneDrive - Associacao Antonio Vieira\TI\Git\Projetos-C#\ex01c#\obj\Debug\net5.0\ex01c#.dll
+C:\Users\Fabiano\OneDrive - Associacao Antonio Vieira\TI\Git\Projetos-C#\ex01c#\obj\Debug\net5.0\ref\ex01c#.dll
+C:\Users\Fabiano\OneDrive - Associacao Antonio Vieira\TI\Git\Projetos-C#\ex01c#\obj\Debug\net5.0\ex01c#.pdb
+C:\Users\Fabiano\OneDrive - Associacao Antonio Vieira\TI\Git\Projetos-C#\ex01c#\obj\Debug\net5.0\ex01c#.genruntimeconfig.cache
